@@ -1,6 +1,7 @@
 # Nucleotide to Amino Acid Translator
 
 
+
 Input file must be cluster count csv file with the following fields: 
 gene,pos,base,A,C,G,T,N,
 
